@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and blockchain development
 - 🌱 I’m currently learning backend development ,smart contracts
 - 💞️ I’m looking to collaborate on web 3 or full stack web development
-- 📫 How to reach me Email-kashyap.bsk99@gmail.com
+- 📫 How to reach me kashyap.bsk99@gmail.com 
 - 😄 Pronouns: HE/Him
   
 
